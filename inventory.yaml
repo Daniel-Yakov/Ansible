@@ -1,0 +1,7 @@
+mygroup:
+  hosts:
+    vm01:
+      ansible_host: <public_ec2_ip> 
+      ansible_user: ubuntu
+    # vm02:
+    #   ansible_host: <public_ip> 
